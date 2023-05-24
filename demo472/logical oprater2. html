@@ -1,0 +1,19 @@
+<html>
+<body>
+<h1> Logical oprater<h1>
+<script>
+var a = 25;
+doument.write(a>20 && a<30);
+doument.write("<br>");
+
+doument.write(a>20 || a<30);
+doument.write("<br>");
+
+doument.write(a<30);
+doument.write("<br>");
+
+doument.write(!(a<30));
+doument.write("<h2>Logical oprater <h2>");
+</script>
+</body>
+</html>
